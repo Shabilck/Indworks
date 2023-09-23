@@ -1,0 +1,225 @@
+{
+    "TabulatedData": [
+        {
+            "PRODUCT_CODE": "0082292028",
+            "QUANTITY": "1",
+            "UNIT_PRICE": "4.90",
+            "ITEM": "Band-Loc 6\" Cable Tie Bla",
+            "PRICE": "4.90"
+        },
+        {
+            "PRODUCT_CODE": "0082473028",
+            "QUANTITY": "1",
+            "ITEM": "Sino/Band-Loc 8' Cable Ti",
+            "PRICE": "6.90",
+            "UNIT_PRICE": "6.90"
+        },
+        {
+            "PRODUCT_CODE": "00800121028",
+            "QUANTITY": "1",
+            "ITEM": "Band-Loc 12\" Catle Tie B1",
+            "PRICE": "12.90",
+            "UNIT_PRICE": "12.90"
+        },
+        {
+            "PRODUCT_CODE": "00800170028",
+            "QUANTITY": "1",
+            "ITEM": "Maruzen 16\" 4.8mm Cable T",
+            "PRICE": "22.50",
+            "UNIT_PRICE": "22.50"
+        },
+        {
+            "PRODUCT_CODE": "9555783901415",
+            "QUANTITY": "1",
+            "ITEM": "Tali Rafia AA 100g",
+            "PRICE": "3.90",
+            "UNIT_PRICE": "3.90"
+        },
+        {
+            "PRODUCT_CODE": "4991203147554",
+            "QUANTITY": "1",
+            "ITEM": "J/1536-533 Echo Steel Wir",
+            "PRICE": "6.90",
+            "UNIT_PRICE": "6.90"
+        },
+        {
+            "PRODUCT_CODE": "0043313002",
+            "QUANTITY": "1",
+            "UNIT_PRICE": "5.50",
+            "ITEM": "Apollo Opp Tape 48mm X 90",
+            "PRICE": "5.50"
+        },
+        {
+            "PRODUCT_CODE": "00400495159",
+            "QUANTITY": "1",
+            "ITEM": "Poly Paper Cutter (L)",
+            "PRICE": "3.50",
+            "UNIT_PRICE": "3.50"
+        },
+        {
+            "PRODUCT_CODE": "9555135800021",
+            "QUANTITY": "1",
+            "ITEM": "Lilin Kotak Hitam 9\"XL",
+            "PRICE": "4.90",
+            "UNIT_PRICE": "4.90"
+        },
+        {
+            "PRODUCT_CODE": "0041743110",
+            "QUANTITY": "1",
+            "ITEM": "6\" R'key Combination Plie",
+            "PRICE": "9.50",
+            "UNIT_PRICE": "9.50"
+        },
+        {
+            "PRODUCT_CODE": "0040606022",
+            "QUANTITY": "1",
+            "ITEM": "Rabbit R104 Knitted Glove",
+            "PRICE": "8.90",
+            "UNIT_PRICE": "8.90"
+        },
+        {
+            "PRODUCT_CODE": "6925582180466",
+            "QUANTITY": "1",
+            "UNIT_PRICE": "6.90",
+            "ITEM": "THT291908 TOTAL 4x190mm T",
+            "PRICE": "6.90"
+        },
+        {
+            "PRODUCT_CODE": "00400429238",
+            "QUANTITY": "1",
+            "ITEM": "2\" X 50Y Red White Tape-A",
+            "PRICE": "5.90",
+            "UNIT_PRICE": "5.90"
+        },
+        {
+            "PRODUCT_CODE": "00400369138",
+            "QUANTITY": "2",
+            "ITEM": "27mm Domino Claw Hammer W",
+            "PRICE": "42.00",
+            "UNIT_PRICE": "21.00"
+        },
+        {
+            "PRODUCT_CODE": "004004CB110",
+            "QUANTITY": "1",
+            "ITEM": "4mm China PE Rope 10M",
+            "PRICE": "4.00",
+            "UNIT_PRICE": "4.00"
+        },
+        {
+            "PRODUCT_CODE": "00400233159",
+            "OTHER": "",
+            "ITEM": "1.5\" X 50g Yellcw Rubber",
+            "PRICE": "2.50",
+            "UNIT_PRICE": "2.50"
+        },
+        {
+            "PRODUCT_CODE": "0043313002",
+            "QUANTITY": "1",
+            "UNIT_PRICE": "5.50",
+            "ITEM": "Apollo Opp Tape 48mm X 90",
+            "PRICE": "5.50"
+        },
+        {
+            "PRODUCT_CODE": "0045947082",
+            "QUANTITY": "1",
+            "UNIT_PRICE": "1.00",
+            "ITEM": "2\" Local Common Iron Wire",
+            "PRICE": "1.00"
+        },
+        {
+            "PRODUCT_CODE": "0045941082",
+            "QUANTITY": "1",
+            "UNIT_PRICE": "1.50",
+            "ITEM": "1\" Local Common Iron Wire",
+            "PRICE": "1.50"
+        },
+        {
+            "PRODUCT_CODE": "0082172028",
+            "QUANTITY": "1",
+            "ITEM": "Maruzen 0.12mmx18mm 20m P",
+            "PRICE": "3.90",
+            "UNIT_PRICE": "3.90"
+        }
+    ],
+    "SummaryFields": [
+        {
+            "ADDRESS": "CNE STOP HOME CENTRE SDN BHD\n(657014-X)\nNO: 59-63, JLN ANGGERIK VANILLA AB\n31/AB, KOTA KEMUNING,\n40460 SHAH ALAM,SELANGER"
+        },
+        {
+            "STREET": "NO: 59-63, JLN ANGGERIK VANILLA AB\n31/AB, KOTA KEMUNING,"
+        },
+        {
+            "CITY": "SHAH"
+        },
+        {
+            "CITY": "ALAM,SELANGER"
+        },
+        {
+            "ZIP_CODE": "40460"
+        },
+        {
+            "NAME": "CNE STOP HOME CENTRE SDN BHD"
+        },
+        {
+            "ADDRESS_BLOCK": "NO: 59-63, JLN ANGGERIK VANILLA AB\n31/AB, KOTA KEMUNING,\n40460 SHAH ALAM,SELANGER"
+        },
+        {
+            "AMOUNT_PAID": "200.00"
+        },
+        {
+            "INVOICE_RECEIPT_DATE": "26-03-2023"
+        },
+        {
+            "INVOICE_RECEIPT_DATE": "26-03-2023"
+        },
+        {
+            "INVOICE_RECEIPT_ID": "v001-668113"
+        },
+        {
+            "INVOICE_RECEIPT_ID": "269773"
+        },
+        {
+            "TAX_PAYER_ID": "000957300736)"
+        },
+        {
+            "VENDOR_GST_NUMBER": "000957300736)"
+        },
+        {
+            "SUBTOTAL": "163.50"
+        },
+        {
+            "SUBTOTAL": "163.50"
+        },
+        {
+            "SUBTOTAL": "163.50"
+        },
+        {
+            "TAX": "0.00"
+        },
+        {
+            "TOTAL": "163.50"
+        },
+        {
+            "VENDOR_ADDRESS": "CNE STOP HOME CENTRE SDN BHD\n(657014-X)\nNO: 59-63, JLN ANGGERIK VANILLA AB\n31/AB, KOTA KEMUNING,\n40460 SHAH ALAM,SELANGER"
+        },
+        {
+            "VENDOR_NAME": "CNE STOP HOME CENTRE SDN BHD"
+        },
+        {
+            "VENDOR_PHONE": "03-5121"
+        },
+        {
+            "OTHER": "001"
+        },
+        {
+            "OTHER": "21"
+        },
+        {
+            "OTHER": "36.50"
+        },
+        {
+            "OTHER": "GST\n(@ 0%)\nSR"
+        }
+    ],
+    "IsInvoiceValid": false
+}
